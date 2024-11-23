@@ -1,0 +1,14 @@
+.head{
+    width: 30%;
+    
+}
+.answers{
+    cursor: pointer;
+}
+.AllLi{
+    border:3px solid blueviolet;
+    transition: 0.6s all;
+}
+.AllLi:hover{
+    background-color: blueviolet;
+}
