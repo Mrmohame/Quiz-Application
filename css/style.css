@@ -12,3 +12,13 @@
 .AllLi:hover{
     background-color: blueviolet;
 }
+
+
+@media screen and (max-width : 800px ){
+    h1{
+        font-size: 18px;
+        text-wrap: nowrap;
+        width: 75% !important;
+        text-align: center;
+    }
+}
