@@ -21,4 +21,7 @@
         width: 75% !important;
         text-align: center;
     }
+    .ChooseQuestions,.answerQuestion,.scoreOfQuiz{
+        width: 80% !important;
+    }
 }
