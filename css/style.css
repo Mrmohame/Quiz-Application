@@ -15,13 +15,20 @@
 
 
 @media screen and (max-width : 800px ){
-    h1{
-        font-size: 18px;
-        text-wrap: nowrap;
-        width: 75% !important;
-        text-align: center;
-    }
+
     .ChooseQuestions,.answerQuestion,.scoreOfQuiz{
         width: 80% !important;
     }
+}
+
+
+@media screen and (max-width : 1400px ){
+    h1{
+        font-size: 18px;
+        text-wrap: nowrap;
+        width: 40% !important;
+        text-align: center;
+        font-weight: bold;
+    }
+
 }
